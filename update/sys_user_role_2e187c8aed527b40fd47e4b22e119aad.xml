@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Allows user to read records on the x_58872_needit_needit table</description>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <limit_concurrent_sessions>false</limit_concurrent_sessions>
+        <name>x_58872_needit.needit_reader</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>needit_reader</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>provision_admin</sys_created_by>
+        <sys_created_on>2019-06-28 20:21:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>2e187c8aed527b40fd47e4b22e119aad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.needit_reader</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_user_role_2e187c8aed527b40fd47e4b22e119aad</sys_update_name>
+        <sys_updated_by>provision_admin</sys_updated_by>
+        <sys_updated_on>2019-06-28 20:21:32</sys_updated_on>
+    </sys_user_role>
+</record_update>
